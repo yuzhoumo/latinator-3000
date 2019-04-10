@@ -6,7 +6,7 @@ function search() {
     
     //Sets size and source of iFrame
     document.getElementById('int-box').style.top = "0%";
-	document.getElementById('result').height = Math.round(window.innerHeight*0.8);
+    document.getElementById('result').height = Math.round(window.innerHeight*0.8);
     document.getElementById('result').width = "90%";
     document.getElementById('result').src = URL;
     document.getElementById('alert').innerHTML = URL;
