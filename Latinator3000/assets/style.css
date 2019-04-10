@@ -1,0 +1,49 @@
+html { 
+    background: url(background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    font-family: Sans-Serif;
+}
+
+form {
+    width:500px;
+    margin:20px auto;
+    vertical-align: top;
+}
+
+.ext-box { 
+    display: table; width:100%;
+}
+
+.int-box { 
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    position:absolute;
+    top:0;
+    right:0;
+    left:0;
+}
+
+ .search {
+    padding:8px 15px;
+    background:rgba(20, 20, 20, 0.2);
+    border:0px solid #dbdbdb;
+}
+ .button {
+    position:relative;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid #207cca;
+    background-color:#207cca;
+    color:#fafafa;
+}
+ .button:hover {
+    background-color:rgba(255, 255, 255, 0.9);
+    color:#207cca;
+}
