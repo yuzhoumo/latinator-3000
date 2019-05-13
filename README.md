@@ -13,8 +13,8 @@ In the script.js file, simply replace '#Latin' with any other language supported
 The background image and webpage text can be easily changed.
 Change line 4 and line 15 in ```index.html``` to customize text.
 
-`
+``
 line 4:  <title>Latinator 3000</title>
 line 15: <h3>THE LATINATOR 3000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-`
+``
 To customize the background image, replace `background.jpg` in the `assets` folder with any image of the same name.
