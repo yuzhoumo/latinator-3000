@@ -10,3 +10,9 @@ In the script.js file, simply replace '#Latin' with any other language supported
 ```var URL = 'https://en.wiktionary.org/wiki/' + input + '#Latin';```
 
 The background image and webpage text can also be easily changed in the HTML file.
+Change line 4 and line 15 in ```index.html``` to customize text.
+
+```
+line 4:  <title>Latinator 3000</title>
+line 15: <h3>THE LATINATOR 3000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+```
