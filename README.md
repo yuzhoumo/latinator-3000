@@ -1,5 +1,5 @@
 # Latinator3000
-The Latinator3000 is a simple web page I wrote.
+The Latinator3000 is a simple web interface I wrote in HTML/CSS and Javascript.
 Enter any Latin word into the search bar, and the result will be returned from Wiktionary in an iFrame.
 [Try it out here!]( https://perpetualpanda.github.io/Latinator3000/)
 
