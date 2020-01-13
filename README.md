@@ -1,5 +1,5 @@
 # Latinator3000
-The Latinator3000 is a site I wrote for a Latin class.
+The Latinator3000 is a site I wrote for a Latin class as a replacement for our paper dictionaries.
 Enter any Latin word into the search bar, and the result will be returned from Wiktionary in an iFrame.
 [Try it out here!]( https://yuzhoumo.github.io/latinator-3000/)
 
