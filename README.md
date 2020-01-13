@@ -3,6 +3,8 @@ The Latinator3000 is a site I wrote for a Latin class.
 Enter any Latin word into the search bar, and the result will be returned from Wiktionary in an iFrame.
 [Try it out here!]( https://yuzhoumo.github.io/latinator-3000/)
 
+![Latinator3000 Demo GIF](demo.gif)
+
 ## Support for Other Languages
 This project was made to search for Latin words but it can be customized for other languages as well.
 In the `script.js` file, simply replace `'#Latin'` with any other language supported by Wiktionary:
